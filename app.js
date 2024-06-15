@@ -94,7 +94,7 @@ form.addEventListener('submit', (e) => {
 localStorage.setItem('username', 'username')
 localStorage.setItem('password', 'password')
 console.log(localStorage.getItem('username'))
-
+        
 
 //LocalStroage
 
